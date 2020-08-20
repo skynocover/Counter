@@ -1,5 +1,6 @@
-# Counter
-GolangSyncCounter
+# GolangSyncCounter
+
+[![](https://godoc.org/github.com/nathany/looper?status.svg)](https://pkg.go.dev/github.com/skynocover/Counter?tab=doc)
 
 ## How to use
 
